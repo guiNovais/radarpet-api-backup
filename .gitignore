@@ -128,3 +128,12 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# AdonisJS gitignore 
+node_modules
+build
+coverage
+.vscode
+.DS_STORE
+.env
+tmp
